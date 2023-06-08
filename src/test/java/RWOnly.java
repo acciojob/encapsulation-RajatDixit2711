@@ -5,7 +5,7 @@ public class RWOnly {
     {
         this.id=id;
     }
-    public void setName(String name)
+    public void setter(String name)
     {
         this.name=name;
     }
@@ -13,7 +13,7 @@ public class RWOnly {
     {
         return id;
     }
-    public String  getName()
+    public String  getter()
     {
         return name;
     }

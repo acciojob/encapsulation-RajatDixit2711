@@ -9,8 +9,8 @@ public class Main {
      //   System.out.print(a.name);not possible beacuse it is private
 
         //a.setId(100);
-        a.setName("Rajat");
-        System.out.print(a.getName());
+        a.setter("Rajat");
+        System.out.print(a.getter());
 
 
     }
