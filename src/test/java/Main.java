@@ -1,8 +1,3 @@
-import org.junit.platform.engine.support.descriptor.FileSystemSource;
-
-import java.net.SocketOption;
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         RWOnly a = new RWOnly();
